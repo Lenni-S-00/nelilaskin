@@ -1,2 +1,2 @@
 # Cache-tiedostot
-pycache/
+__pycache__/
